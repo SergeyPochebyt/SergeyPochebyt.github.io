@@ -2,8 +2,8 @@
 ## Sergey Pochebyt 
 
 
-# The page was created as part of a project 
-# Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure
+## The page was created as part of a project 
+## Developing-modern-web-applications-with-ASP.NET-and-Microsoft-Azure
 
 
 
@@ -16,9 +16,9 @@
 ### [My certificates](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md)
 
 
-### Contact:
-# tel. + 375(29)358-49-77
-# e-mail: sergeymailmobile@gmail.com
+## Contact:
+### tel. + 375(29)358-49-77
+### e-mail: sergeymailmobile@gmail.com
 
 
 
