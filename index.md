@@ -1,5 +1,5 @@
-### Welcome to homepage
-### Sergey Pochebyt 
+# Welcome to homepage
+# Sergey Pochebyt 
 
 
 ## The page was created as part of a project 
@@ -7,7 +7,7 @@
 
 
 
-# Information and materials:
+## Information and materials:
 
 #### [My portfolio](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md)
 #### [Padawans task](https://18.194.77.2/HomeWorks)
