@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sergey webpage
 
 You can use the [editor on GitHub](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
