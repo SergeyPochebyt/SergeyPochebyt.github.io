@@ -1,5 +1,5 @@
-# Welcome to homepage
-# Sergey Pochebyt 
+###### Welcome to homepage
+###### Sergey Pochebyt 
 
 
 ## The page was created as part of a project 
