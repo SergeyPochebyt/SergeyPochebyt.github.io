@@ -11,7 +11,7 @@
 ## Information and materials:
 
 
-#### [My portfolio](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md)
+#### [My portfolio](https://github.com/SergeyPochebyt)
 #### [FancyCalc](https://github.com/SergeyPochebyt/FancyCalc)
 #### [PadawansTask1](https://github.com/SergeyPochebyt/PadawansTask1)
 #### [PadawansTask2](https://github.com/SergeyPochebyt/PadawansTask2)
@@ -29,7 +29,7 @@
 
 #### [Codewars](https://www.codewars.com/users/SergeyPochebyt)
 #### [Github game Tic Tac](https://github.com/SergeyPochebyt/TicTac)
-#### [My certificates](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md)
+#### [My certificates](https://github.com/SergeyPochebyt)
 
 
 
