@@ -1,5 +1,6 @@
 # **Welcome to homepage**
-# **Sergey Pochebyt** 
+
+
 
 
 ## The page was created as part of a project 
@@ -9,11 +10,14 @@
 
 ## Information and materials:
 
+
 #### [My portfolio](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md)
 #### [Padawans task](https://18.194.77.2/HomeWorks)
 #### [Codewars](https://www.codewars.com/users/SergeyPochebyt)
 #### [Github game Tic Tac](https://github.com/SergeyPochebyt/TicTac)
 #### [My certificates](https://github.com/SergeyPochebyt/SergeyPochebyt.github.io/edit/master/index.md)
+
+
 
 
 ## Contact:
