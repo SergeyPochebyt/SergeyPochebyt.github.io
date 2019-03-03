@@ -25,7 +25,8 @@
 #### [PadawansTask10](https://github.com/SergeyPochebyt/PadawansTask10)
 #### [PadawansTask11](https://github.com/SergeyPochebyt/PadawansTask11)
 #### [PadawansTask12](https://github.com/SergeyPochebyt/PadawansTask12)
-
+#### [PadawansTask13](https://github.com/SergeyPochebyt/PadawansTask13)
+#### [Finabocci](https://github.com/SergeyPochebyt/Fin)
 
 #### [Codewars](https://www.codewars.com/users/SergeyPochebyt)
 #### [Github game Tic Tac](https://github.com/SergeyPochebyt/TicTac)
